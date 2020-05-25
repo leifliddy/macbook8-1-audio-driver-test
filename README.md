@@ -23,7 +23,7 @@ apt install wget symlinks make gcc linux-headers-generic
 ```
 **build driver**  
 ```
-git clone https://github.com/leifliddy/macbook12-audio-driver.git  
+git clone https://github.com/leifliddy/macbook8-1-audio-driver-test 
 cd macbook12-audio-driver/
 ./install.cirrus.driver.sh
 reboot
